@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/booktick/static/css/main.249c25d6.chunk.css",
+    "main.js": "/booktick/static/js/main.99570ba3.chunk.js",
+    "main.js.map": "/booktick/static/js/main.99570ba3.chunk.js.map",
+    "runtime-main.js": "/booktick/static/js/runtime-main.40ec0e47.js",
+    "runtime-main.js.map": "/booktick/static/js/runtime-main.40ec0e47.js.map",
+    "static/js/2.0bc75653.chunk.js": "/booktick/static/js/2.0bc75653.chunk.js",
+    "static/js/2.0bc75653.chunk.js.map": "/booktick/static/js/2.0bc75653.chunk.js.map",
+    "index.html": "/booktick/index.html",
+    "static/css/main.249c25d6.chunk.css.map": "/booktick/static/css/main.249c25d6.chunk.css.map",
+    "static/js/2.0bc75653.chunk.js.LICENSE.txt": "/booktick/static/js/2.0bc75653.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ec0e47.js",
+    "static/js/2.0bc75653.chunk.js",
+    "static/css/main.249c25d6.chunk.css",
+    "static/js/main.99570ba3.chunk.js"
+  ]
+}
